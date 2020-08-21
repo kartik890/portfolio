@@ -1,0 +1,10 @@
+body{
+    background-image: url("/home/kartikeya/Documents/web dev boot camp/CSS/pexels-giftpunditscom-1303081.jpg");
+    background-size: cover;
+    text-align: center;
+}
+#front_page
+{   
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffc8aa ;  
+}
